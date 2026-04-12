@@ -6,3 +6,5 @@ response = ollama.generate(
 )
 
 print(response['response'])
+
+#built
